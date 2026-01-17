@@ -4,7 +4,7 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
-	<version>8.7.5</version>
+	<version>8.7.6</version>
 	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
 	
@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.193.223.96:8081/repository/myrepository/</url>
+		    <url>http://44.223.9.86:8081/repository/nexus-17-jan/</url>
 		</repository>
   	</distributionManagement>
 	
